@@ -1,5 +1,5 @@
 //
-//  Item.File.swift
+//  Item.swfit.swift
 //  Lootlogger
 //
 //  Created by Amath Benoit Gaye on 11/7/25.
@@ -43,8 +43,3 @@ class Item {
         }
     }
     }
-
-
-
-
-
